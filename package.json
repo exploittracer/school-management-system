@@ -1,0 +1,19 @@
+{
+  "name": "school-management-system",
+  "version": "1.0.0",
+  "description": "A simple school management system for demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Jun Rey Ansing",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
