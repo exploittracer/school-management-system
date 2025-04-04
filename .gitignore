@@ -1,2 +1,2 @@
 /node_modules
-
+# .env should be included here but purposely excluded to be accessible on the online repositorys
